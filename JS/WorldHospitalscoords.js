@@ -47,6 +47,9 @@ var hospitalscoords = [
     [52.404497, 4.922513, 1], //BovenIJ Ziekenhuis
     [52.293533, 4.957023, 1], //Amsterdam UMC locatie AMC
 
+    //Amstelveen
+    [52.293786, 4.874352, 1], //Amstelland echte zorg
+
     //Purmerend
     [52.500294, 4.96228, 1], //Dijklander Ziekenhuis Purmerend
 
@@ -58,7 +61,66 @@ var hospitalscoords = [
     [52.647461, 5.054033, 1], //Dijklander Ziekenhuis
 
     //Den Helder
-    [52.958162, 4.744597, 1] //Noordwest Ziekenhuisgroep
+    [52.958162, 4.744597, 1], //Noordwest Ziekenhuisgroep
+
+    //Lelystad
+    [52.50418, 5.47698, 1], //St. Jansdal Polikliniek
+
+    //Kampen
+    [52.551306, 5.920172, 1], //Verpleeghuis Myosotis "Oude ziekenhuis"
+
+    //Ermelo
+    [52.305871, 5.609851, 1], //GGZ Centraal / Fornheze
+
+    //Zwolle
+    [52.512571, 6.124105, 1], //Isala
+    [52.502681, 6.117067, 1], //Revalidatiecentrum De Vogellande
+
+    //Meppel
+    [52.690317, 6.217108, 1], //Isala Diaconessenhuis
+
+    //Hogeveen
+    [52.726933, 6.459966, 1], //Bethesda Hospital
+
+    //Herenveen
+    [52.966311, 5.917468, 1], //De Tjongerschans
+
+    //Sneek
+    [53.035185, 5.642445, 1], //St.Antonius ziekenhuis
+
+    //Harlingen
+    [53.162394, 5.429746, 1], //MCL Harlingen
+
+    //Leeuwarden
+    [53.189354, 5.804161, 1], //Medisch Centrum Leeuwarden
+
+    //Groningen
+    [53.223649, 6.573601, 1], //University Medical Centre Groningen
+    [53.191887, 6.550727, 1], //Martini Ziekenhuis
+    [53.182543, 6.599538, 1], //UMCG-Beatrixoord
+    [53.183343, 6.958637, 1], //Ommelander Ziekenhuis Groningen
+
+    //Zuidlaren
+    [53.085003, 6.67501, 1], //Lentis Zuidlaren
+
+    //Assen
+    [52.983958, 6.564733, 1], //Wilhelmina Ziekenhuis
+
+    //Oldezaal
+    [52.308393, 6.930866, 1], //MST Oldezaal
+
+    //Enschede
+    [52.216245, 6.891834, 1], //Medisch Spectrum Twente
+
+    //Winterswijk
+    [51.978606, 6.70041, 1], //Streekziekenhuis Koningin Beatrix
+
+    //Deventer
+    [52.261283, 6.19145, 1], //Deventer Ziekenhuis
+
+    //Ugchelen
+    [52.18135, 5.947385, 1] //Gelre Ziekenhuizen
+
 ];
 
 var hospitalsheat = [
