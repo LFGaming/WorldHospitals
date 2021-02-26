@@ -76,8 +76,8 @@ crossorigin=""/>
 			markerz.addLayer(new L.Marker([x,y]));
 		};
 
-		var mymap = L.map('mapid', {layers: [tLayer, markerz]}).setView([52.07344, 5.13814], 13); //toegevoegd
-				L.control.layers(baseLayers, overlays).addTo(mymap); //toegevoegd
+		var mymap = L.map('mapid', {layers: [tLayer, markerz]}).setView([52.07344, 5.13814], 13);
+				L.control.layers(baseLayers, overlays).addTo(mymap);
 
             mymap.on('click', onMapClick);
         
