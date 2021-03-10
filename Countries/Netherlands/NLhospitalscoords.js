@@ -116,7 +116,102 @@ var hospitalscoords = [
     [52.261283, 6.19145, 1], //Deventer Ziekenhuis
 
     //Ugchelen
-    [52.18135, 5.947385, 1] //Gelre Ziekenhuizen
+    [52.18135, 5.947385, 1], //Gelre Ziekenhuizen
+
+    //Arnhem
+    [52.000858, 5.90948, 1], //Rijnstale Arnhem
+    [51.997799, 5.911562, 1], //Pro Persona GGZ
+    [51.986089, 5.976949, 1], //Dienstapotheek Arnhem locatie Velp
+    [51.942486, 6.070161, 1], //Rijnstate Ziekenhuis Zevenaar
+
+    //Nijmegen
+    [51.821615, 5.86215, 1], //Radboud University Nijmegen
+    [51.833732, 5.899819, 1], //Sint Maartenskliniek Nijmegen
+    [51.817589, 5.830779, 1], //Canisuis-Wilhelmina Ziekenhuis
+
+    //'s-Hertogenbosch
+    [51.685345, 5.275809, 1], //Jeroen Bosch Ziekenhuis
+
+    //Uden
+    [51.674125, 5.606546, 1], //Bernhoven
+
+    //Eindhoven
+    [51.465799, 5.471953, 1], //Catharina Ziekenhuis
+    [51.454435, 5.487875, 1], //Máxima Medisch Centrum Eindhoven
+    [51.405829, 5.419554, 1], //MMC Veldhoven
+
+    //Venlo
+    [51.357572, 6.153749, 1], //VieCuri
+
+    //Reuver
+    [51.283313, 6.081206, 1], //Huisartsenpost Reuver
+
+    //Roermond
+    [51.19212, 5.999694, 1], //Laurentius Ziekenhuis
+
+    //Sittart
+    [50.983992, 5.842924, 1], //Zuyderland
+
+    //Heerlen
+    [50.869143, 5.977233, 1], //Zuyderland
+
+    //Maastricht
+    [50.834507, 5.713121, 1], //Maastricht UMC+
+    [50.846164, 5.682088, 1], //?
+    [50.848115, 5.668822, 1], //Medisch Centrum Maastricht Annadal
+
+    //Weert
+    [51.254533, 5.713239, 1], //Sint Jans Gasthuis
+    [51.25465, 5.710187, 1], //St. Martinus
+
+    //Tilburg
+    [51.540427, 5.104555, 1], //ETZ Elisabeth Ziekenhuis
+    [51.577403, 5.059381, 1], //ETZ TweeSteden ziekenhuis
+
+    //Breda
+    [51.574089, 4.762825, 1], //Amphia Ziekenhuis
+    [51.582033, 4.797083, 1], //Amphia Ziekenhuis Locatie Molengracht
+    [51.588976, 4.790404, 1], //Revant Breda
+    [51.598671, 4.795521, 1], //Doornbos Fysio Groep
+
+    //Oosterhout
+    [51.647721, 4.870237, 1], //Amphia Ziekenhuis
+
+    //Goes
+    [51.486788, 3.909084, 1], //Zorgpark Goes
+    [51.504342, 3.876543, 1], //Hospice het Clarahofje
+
+    //Hulst
+    [51.287098, 4.050838, 1], //Liduina
+
+    //Terneuzen
+    [51.309078, 3.860686, 1], //ZorgSaam Ziekenhuis - De Honte
+    [51.3197, 3.848525, 1], //Ter Schorre
+
+    //Hoogheide
+    [51.42932, 4.324204, 1], //Huisartsenpraktijk J.C.S.P. van Hootegem
+
+    //Dordrecht
+    [51.791898, 4.682488, 1], //Albert Schweitzer Ziekenhuis
+
+    //Zwijndrecht
+    [51.826565, 4.629471, 1], //Albert Schweitzer Ziekenhuis
+
+    //Maasdam
+    [51.80066, 4.563859, 1], //Medisch Centrum Puttershoek
+
+    //Rotterdam
+    [51.879541, 4.535353, 1], //Maasstad Ziekenhuis
+    [51.886154, 4.505253, 1], //Familiehuis Daniel den Hoed
+    [51.885945, 4.493376, 1], //Ikazia Ziekenhuis
+    [51.910937, 4.46833, 1], //Erazmus MC
+    [51.91502, 4.480035, 1], //The Rotterdam Eye Hospital
+    [51.915785, 4.480126, 1], //Het Ooghuis
+    [51.941715, 4.462697, 1], //Sint Franciscus Gasthuis
+
+    //Delft
+    [51.997796, 4.339578, 1], //Reinier de Graaf Gasthuis
+    [52.022838, 4.360961, 1] //GGZ Delfland
     
 ];
 
