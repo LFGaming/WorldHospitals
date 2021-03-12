@@ -106,7 +106,7 @@ crossorigin=""/>
 
 			var heat = L.heatLayer(hospitalsheat, {radius: 15});
 
-			var markers = new L.MarkerClusterGroup();
+			var markers = new L.MarkerClusterGroup() //.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
 
 	var grayscale   = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGZnYW1pbmciLCJhIjoiY2tkNmM1azJ2MDU4ZDJ5dGc2YzIxZTZvaSJ9.xL24tk-KhvpMokUWxhEPGA', {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1});
 	var streets  = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGZnYW1pbmciLCJhIjoiY2tkNmM1azJ2MDU4ZDJ5dGc2YzIxZTZvaSJ9.xL24tk-KhvpMokUWxhEPGA', {id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1});
